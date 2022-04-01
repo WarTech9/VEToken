@@ -1,0 +1,1 @@
+# Voting Escrowed token implementation
